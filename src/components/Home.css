@@ -1,0 +1,20 @@
+.home {
+  background: url(bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 520px;
+  width: 100%;
+}
+
+.welcome {
+  color: white;
+  position: absolute;
+  top: 30%;
+  transform: translateY(-30%);
+}
+.welcome h1 {
+  text-shadow: 2px 3px 3px black;
+  font-size: 80px;
+  text-transform: uppercase;
+
+  
+}
